@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "initial frontend commit"
+git branch -M main
+git remote add origin https://github.com/srushtiraut-bit/RentEase-frontend.git
+git push -u origin main
